@@ -1,0 +1,16 @@
+{
+	"geode": "4.0.0",
+	"id": "juanherrera.guns_in_gd",
+	"version": "1.0.0",
+	"name": "Guns in Geometry Dash",
+	"developer": "juanherrera",
+	"description": "Press Q to blast blocks, spikes, and coins out of existence!",
+	"settings": {
+		"shoot-coins": {
+			"name": "Shoot Coins",
+			"description": "Allows your bullets to destroy Secret and User coins.",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
